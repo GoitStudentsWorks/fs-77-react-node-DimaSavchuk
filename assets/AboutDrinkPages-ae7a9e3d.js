@@ -1,4 +1,4 @@
-import{s as i,j as t,r as a,m as y,u as S,b as I,e as D,c as z,o as H,a as T,Q as j,p as E,q as M}from"./index-3ebd5be2.js";import{g as A,a as P,d as R}from"./axiosConfig-f657a4ab.js";import{s as $,M as O}from"./Motivation-68679378.js";const Z="/fs-77-react-node-DimaSavchuk/assets/motivation2-bf4c6d98.png",B="/fs-77-react-node-DimaSavchuk/assets/motivation2@2x-36e633d0.png",L=i.h1`
+import{s as i,j as t,r as a,m as y,u as S,b as I,e as D,c as z,o as H,a as T,Q as j,p as E,q as M}from"./index-948c53eb.js";import{g as A,a as P,d as R}from"./axiosConfig-a924ac37.js";import{s as $,M as O}from"./Motivation-89ddb39d.js";const Z="/fs-77-react-node-DimaSavchuk/assets/motivation2-bf4c6d98.png",B="/fs-77-react-node-DimaSavchuk/assets/motivation2@2x-36e633d0.png",L=i.h1`
   color: var(--text-color);
   font-size: 32px;
   font-style: normal;
