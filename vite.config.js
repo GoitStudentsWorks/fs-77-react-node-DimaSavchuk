@@ -10,5 +10,5 @@ export default defineConfig({
       components: '/src/components',
     },
   },
-  base: '/Drink_master/',
+  base: '/fs-77-react-node-DimaSavchuk/',
 });
