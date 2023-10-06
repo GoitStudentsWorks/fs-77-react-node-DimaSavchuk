@@ -8,7 +8,7 @@ import { store, persistor } from './redux/store.js';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <Provider store={store}>
     <PersistGate loading={null} persistor={persistor}>
-      <BrowserRouter basename="/Drink_master">
+      <BrowserRouter basename="/fs-77-react-node-DimaSavchuk">
         <App />
       </BrowserRouter>
     </PersistGate>
